@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "es2015",
+        "module": "commonjs",
+        "noImplicitAny": false
+    },
+    "files": [
+        "./src/js/app.ts"
+    ]
+}
